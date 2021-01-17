@@ -6,10 +6,10 @@
 
 Exemplos:
 
-**Entrada:** `[1, 2, 3]`
+**Entrada:** `[1, 2, 3]`\
 **Saída:** `[3, 2, 1]`
 
-**Entrada:** `[12, 35, 9, 56, 24]`
+**Entrada:** `[12, 35, 9, 56, 24]`\
 **Saída:** `[24, 35, 9, 56, 12]`
 
 -------------
@@ -19,4 +19,4 @@ Exemplos:
 Para testar dê um: `npm install`,\
 Em seguida: `npm run test`
 
-![print](/prits/print-1.png)
+![print](/desafio-2/print/print-1.png)
