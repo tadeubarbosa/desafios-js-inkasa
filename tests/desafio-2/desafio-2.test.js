@@ -1,6 +1,6 @@
 const manipulateNumbers = require('../../desafio-2/script');
 
-describes("Test manipulateNumbers function", () => {
+describe("Test manipulateNumbers function", () => {
 
     test('should be null when no values has been passed', () => {
         expect(manipulateNumbers()).toBeNull();
