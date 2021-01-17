@@ -1,4 +1,4 @@
-const manipulateNumbers = require('../script');
+const manipulateNumbers = require('../../desafio-2/script');
 
 describes("Test manipulateNumbers function", () => {
 
